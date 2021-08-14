@@ -1,0 +1,16 @@
+C:\Users\Rushil\Documents\Projects\CSharpTutorial\BrackeysTutorial\bin\Debug\net5.0\BrackeysTutorial.exe
+C:\Users\Rushil\Documents\Projects\CSharpTutorial\BrackeysTutorial\bin\Debug\net5.0\BrackeysTutorial.deps.json
+C:\Users\Rushil\Documents\Projects\CSharpTutorial\BrackeysTutorial\bin\Debug\net5.0\BrackeysTutorial.runtimeconfig.json
+C:\Users\Rushil\Documents\Projects\CSharpTutorial\BrackeysTutorial\bin\Debug\net5.0\BrackeysTutorial.runtimeconfig.dev.json
+C:\Users\Rushil\Documents\Projects\CSharpTutorial\BrackeysTutorial\bin\Debug\net5.0\BrackeysTutorial.dll
+C:\Users\Rushil\Documents\Projects\CSharpTutorial\BrackeysTutorial\bin\Debug\net5.0\ref\BrackeysTutorial.dll
+C:\Users\Rushil\Documents\Projects\CSharpTutorial\BrackeysTutorial\bin\Debug\net5.0\BrackeysTutorial.pdb
+C:\Users\Rushil\Documents\Projects\CSharpTutorial\BrackeysTutorial\obj\Debug\net5.0\BrackeysTutorial.csproj.AssemblyReference.cache
+C:\Users\Rushil\Documents\Projects\CSharpTutorial\BrackeysTutorial\obj\Debug\net5.0\BrackeysTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rushil\Documents\Projects\CSharpTutorial\BrackeysTutorial\obj\Debug\net5.0\BrackeysTutorial.AssemblyInfoInputs.cache
+C:\Users\Rushil\Documents\Projects\CSharpTutorial\BrackeysTutorial\obj\Debug\net5.0\BrackeysTutorial.AssemblyInfo.cs
+C:\Users\Rushil\Documents\Projects\CSharpTutorial\BrackeysTutorial\obj\Debug\net5.0\BrackeysTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Rushil\Documents\Projects\CSharpTutorial\BrackeysTutorial\obj\Debug\net5.0\BrackeysTutorial.dll
+C:\Users\Rushil\Documents\Projects\CSharpTutorial\BrackeysTutorial\obj\Debug\net5.0\ref\BrackeysTutorial.dll
+C:\Users\Rushil\Documents\Projects\CSharpTutorial\BrackeysTutorial\obj\Debug\net5.0\BrackeysTutorial.pdb
+C:\Users\Rushil\Documents\Projects\CSharpTutorial\BrackeysTutorial\obj\Debug\net5.0\BrackeysTutorial.genruntimeconfig.cache
